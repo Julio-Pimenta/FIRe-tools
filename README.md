@@ -33,10 +33,11 @@ conda activate FIRe
 4. Run the desired script from the `codes/` directory. For example:
 
 ```sh
-python codes/grafico_000_generico.py
+python codes/scatter_ETR_PAR.py
 ```
 
 The output files will be generated in the `output/` directory.
 
 ## Notes
 Raw data may not be included in the repository due to size or confidentiality constraints.
+
