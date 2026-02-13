@@ -23,7 +23,7 @@ This project uses Conda for environment management. To create the environment wi
 
 ```sh
 conda env create -f environment.yml
-conda activate FIRe
+conda activate FIRe_tools
 ```
 
 ## Usage
@@ -40,4 +40,5 @@ The output files will be generated in the `output/` directory.
 
 ## Notes
 Raw data may not be included in the repository due to size or confidentiality constraints.
+
 
